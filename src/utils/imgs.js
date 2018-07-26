@@ -1,0 +1,15 @@
+export default {
+  profile: require("../assets/imgs/profile.png"),
+  lock: require("../assets/imgs/lock.png"),
+  mail: require("../assets/imgs/mail.png"),
+  male: require("../assets/imgs/male.png"),
+  female: require("../assets/imgs/female.png"),
+  phone: require("../assets/imgs/phone.png"),
+  screen: require("../assets/imgs/screen.png"),
+  graduationHat: require("../assets/imgs/graduation-hat.png"),
+  menuButton: require("../assets/imgs/menu-icon.png"),
+  videoThumbnail: require("../assets/imgs/video-thumbnail.jpg"),
+  video: require("../assets/imgs/video.png"),
+  online: require("../assets/imgs/online.png"),
+  people: require("../assets/imgs/people.png"),
+}
